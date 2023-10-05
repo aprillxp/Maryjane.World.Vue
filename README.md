@@ -1,2 +1,3 @@
-# Movie_Vue
-the crazy fox jumps over the lazy dog
+# Maryjane.World - Reference from TMDB
+Movie web based on Vue.js framework
+
